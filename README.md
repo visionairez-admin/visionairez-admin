@@ -23,7 +23,7 @@
 - 🔭 Working on **Smart Home Systems**, **Educational Management System (QR Scanner)**, and **DocAI Chatbot**
 - 🌱 Learning **Machine Learning, React, IoT, Full Stack Development**
 - 👯 Looking to collaborate on **IoT, ML, and open-source projects**
-- 💬 Ask me about **React**, **IoT**, and **Machine Learning**
+- 💬 Ask me about **Html**, **IoT**, and **CSS**,**JS**,**C**,**Java**,**Python**,**R Programming**,
 - 🌐 Portfolio: **https://portfolio-tan-xi-68.vercel.app/**
 - 📫 Email: **akellachakry@gmail.com**
 - 📄 Resume: **In Progress**
