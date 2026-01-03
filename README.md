@@ -46,7 +46,7 @@
 
 ### 🤖 Machine Learning / AI
 
-<p><img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn" /></p>
+<p><img src="https://skillicons.dev/icons?i=python,opencv,sklearn" /></p>
 
 ### 🏠 IoT & Hardware
 
@@ -54,7 +54,7 @@
 
 ### 🗄️ Backend & Databases
 
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,xammp" /></p>
 
 ### ⚙️ Tools & Platforms
 
