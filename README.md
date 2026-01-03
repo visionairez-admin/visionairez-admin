@@ -10,7 +10,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://portfolio-git-main-visionairez-admins-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://portfolio-tan-xi-68.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/visionairez-admin"><img src="https://img.shields.io/badge/Developer%20%26%20Debugger-000000?style=for-the-badge&logo=code&logoColor=white"/></a>
   <a href="mailto:akellachakry@gmail.com"><img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/a-atchayyasastry2005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -24,7 +24,7 @@
 - 🌱 Learning **Machine Learning, React, IoT, Full Stack Development**
 - 👯 Looking to collaborate on **IoT, ML, and open-source projects**
 - 💬 Ask me about **React**, **IoT**, and **Machine Learning**
-- 🌐 Portfolio: **https://portfolio-git-main-visionairez-admins-projects.vercel.app/**
+- 🌐 Portfolio: **https://portfolio-tan-xi-68.vercel.app/**
 - 📫 Email: **akellachakry@gmail.com**
 - 📄 Resume: **In Progress**
 
@@ -152,7 +152,7 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="https://portfolio-git-main-visionairez-admins-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://portfolio-tan-xi-68.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:akellachakry@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/a-atchayyasastry2005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/visionairez-admin"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
