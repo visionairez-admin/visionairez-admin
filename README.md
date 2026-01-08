@@ -46,11 +46,11 @@
 
 ### 🤖 Machine Learning / AI
 
-<p><img src="https://skillicons.dev/icons?i=python,opencv,sklearn" /></p>
+<p><img src="https://skillicons.dev/icons?i=python" /></p>
 
 ### 🏠 IoT & Hardware
 
-<p><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python" /></p>
+<p><img src="https://skillicons.dev/icons?i=arduino,python" /></p>
 
 ### 🗄️ Backend & Databases
 
@@ -58,7 +58,7 @@
 
 ### ⚙️ Tools & Platforms
 
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /></p>
 
 ---
 
