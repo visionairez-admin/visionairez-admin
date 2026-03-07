@@ -42,7 +42,7 @@
 
 ### 🌐 Frontend Development
 
-<p><img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" /></p>
+<p><img src="https://skillicons.dev/icons?i=react,react native,js,html,css,tailwind,bootstrap" /></p>
 
 ### 🤖 Machine Learning / AI
 
